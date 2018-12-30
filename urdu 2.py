@@ -4,8 +4,8 @@
 Created on Wed Oct 10 16:29:13 2018
 
 @author: Jean-Benoit, edits by Palaash Bhargava
+@additions by: Waleed Hashmi & Aizaz Ansari
 @location: Abu Dhabi (BlackSmith Coffee)
-@last change: 14/10/18
 
 """
 
